@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/website-alexandru.dk-111?style=flat-square)](https://alexandru.dk)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-alexandru--daniel03-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexandru-daniel03)&nbsp;
-[![Live project](https://img.shields.io/badge/live-studio.hamso.dk-22c55e?style=flat-square)](https://studio.hamso.dk)
 
 </div>
 
